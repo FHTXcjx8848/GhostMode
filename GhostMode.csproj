@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\Administrator\.nuget\packages\mysql.data.entityframework\8.0.31\contentFiles\any\netstandard2.1\app.config.transform" />
+    <Content Remove="C:\Users\Administrator\.nuget\packages\mysql.data.entityframework\8.0.31\contentFiles\any\netstandard2.1\web.config.transform" />
+    <Content Remove="C:\Users\mac\.nuget\packages\mysql.data.entityframework\8.0.31\contentFiles\any\netstandard2.1\app.config.transform" />
+    <Content Remove="C:\Users\mac\.nuget\packages\mysql.data.entityframework\8.0.31\contentFiles\any\netstandard2.1\web.config.transform" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\cjx01\.nuget\packages\tshock\5.2.0\contentFiles\any\net6.0\HttpServer.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data.EntityFramework" Version="8.0.31" />
+    <PackageReference Include="TShock" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HttpServer">
+      <HintPath>..\..\HttpServer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

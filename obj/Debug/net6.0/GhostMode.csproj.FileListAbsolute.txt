@@ -1,0 +1,16 @@
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\bin\Debug\net6.0\GhostMode.deps.json
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\bin\Debug\net6.0\GhostMode.runtimeconfig.json
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\bin\Debug\net6.0\GhostMode.dll
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\bin\Debug\net6.0\GhostMode.pdb
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\bin\Debug\net6.0\HttpServer.dll
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.csproj.AssemblyReference.cache
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.AssemblyInfoInputs.cache
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.AssemblyInfo.cs
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.csproj.CoreCompileInputs.cache
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.csproj.CopyComplete
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.dll
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\refint\GhostMode.dll
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.pdb
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\GhostMode.genruntimeconfig.cache
+C:\Users\cjx01\Desktop\项目\CSharp\GhostMode\obj\Debug\net6.0\ref\GhostMode.dll

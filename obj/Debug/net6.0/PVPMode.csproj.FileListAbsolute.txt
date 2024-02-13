@@ -1,0 +1,16 @@
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\bin\Debug\net6.0\PVPMode.deps.json
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\bin\Debug\net6.0\PVPMode.runtimeconfig.json
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\bin\Debug\net6.0\PVPMode.dll
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\bin\Debug\net6.0\PVPMode.pdb
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\bin\Debug\net6.0\HttpServer.dll
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.csproj.AssemblyReference.cache
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.AssemblyInfoInputs.cache
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.AssemblyInfo.cs
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.csproj.CoreCompileInputs.cache
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.csproj.CopyComplete
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.dll
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\refint\PVPMode.dll
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.pdb
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\PVPMode.genruntimeconfig.cache
+C:\Users\cjx01\Desktop\项目\CSharp\PVPMode\obj\Debug\net6.0\ref\PVPMode.dll
